@@ -1,2 +1,4 @@
 # Daily_ATC_Problems
-octal板刷ABC的日志
+octal的板刷ABC日志
+- 365E 异或典题
+- 364E 背包问题
