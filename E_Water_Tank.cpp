@@ -28,7 +28,6 @@ inline void solve()
 }
 int main()
 {
-    freopen("F:\\浏览器下载\\01_random_03.txt", "r", stdin);
     cout << fixed << setprecision(10);
     ios::sync_with_stdio(false);
     cin.tie(0);cout.tie(0);
